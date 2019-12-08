@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore common local files.
+README.html
+.swp
+.DS_Store/
+
