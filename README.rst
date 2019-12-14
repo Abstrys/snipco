@@ -31,13 +31,6 @@ Usage
    snipco [-h] [-g [name_or_path]] [-s [name]] [-x [name]] [-l]
           [-p [name]] [-f [path]] [-t [text]] [-v]
 
-
-::
-
-    snipco [-h] [-g [name_or_path]] [-s [name]] [-x [name]] [-l]
-           [-p [name]] [-f [path]] [-v]
-
-
 For command-line help, just run::
 
     snipco --help
