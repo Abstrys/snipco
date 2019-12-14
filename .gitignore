@@ -130,6 +130,6 @@ dmypy.json
 
 # ignore common local files.
 README.html
-.swp
+*.swp
 .DS_Store/
 
