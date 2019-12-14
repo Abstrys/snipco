@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="snipco",
-    version="0.1",
+    version="0.1a",
     author="Eron Hennessey",
     author_email="eron@abstrys.com",
     description="A command-line clipboard utility and snippet catalog",
